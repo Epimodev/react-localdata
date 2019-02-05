@@ -1,6 +1,8 @@
 # react-localdata
 Get your local storage declaratively in react with render props or hooks
 
+You can test it with a simple counter example here : https://epimodev.github.io/demo-react-localdata/
+
 ## Install
 
 ```bash
